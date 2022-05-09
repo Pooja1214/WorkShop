@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\bin\Debug\net6.0\PrimeFact.exe
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\bin\Debug\net6.0\PrimeFact.deps.json
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\bin\Debug\net6.0\PrimeFact.runtimeconfig.json
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\bin\Debug\net6.0\PrimeFact.dll
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\bin\Debug\net6.0\PrimeFact.pdb
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\PrimeFact.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\PrimeFact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\PrimeFact.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\PrimeFact.AssemblyInfo.cs
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\PrimeFact.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\PrimeFact.dll
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\refint\PrimeFact.dll
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\PrimeFact.pdb
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\PrimeFact.genruntimeconfig.cache
+C:\Users\admin\Documents\Pooja_net\PrimeFactor\PrimeFact\PrimeFact\obj\Debug\net6.0\ref\PrimeFact.dll
